@@ -7,9 +7,9 @@ chex>=0.1.85
 clu @ git+https://github.com/google/CommonLoopUtils
 einops
 etils
-fiddle @ git+https://github.com/google/fiddle
-flax @ git+https://github.com/google/flax
-jax @ git+https://github.com/google/jax
+fiddle
+flax
+jax
 jax-bitempered-loss
 jaxtyping
 numpy<2
@@ -22,5 +22,5 @@ tensorflow-datasets==4.8.3
 tensorflow-metadata==1.12.0
 tensorflow-text~=2.9.0
 tensorflow~=2.9.2
-tfds-nightly==4.8.3.dev202303280045
+tfds-nightly
 typeguard
